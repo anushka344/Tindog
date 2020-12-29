@@ -51,6 +51,7 @@ p{
   transform:rotate(25deg);
   padding-top: 5%;
   position: absolute;
+  right: 30%;
 }
 /*features*/
 #features{
